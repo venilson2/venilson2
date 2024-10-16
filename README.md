@@ -2,10 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venilson1&label=Profile%20views&color=0e75b6&style=flat" alt="venilson1" /> </p>
 
-# Olá, seja muito bem-vindo(a)! 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venilson1&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="venilson1" /> </p>
-
 - 🔭 **Desenvolvedor Web** com mais de 3 anos de experiência, atuando em **back-end** e **front-end** com foco em **arquitetura de software** e **boas práticas**.
 
 - 🚀💻 Atualmente me aprofundando no **curso Full Cycle**, explorando todas as fases do **desenvolvimento de software**, desde arquitetura e implementação até **CI/CD** e **DevOps**.

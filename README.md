@@ -2,26 +2,34 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venilson1&label=Profile%20views&color=0e75b6&style=flat" alt="venilson1" /> </p>
 
-- 🔭 Atuo como desenvolvedor web a pouco mais de 2 ano. Apaixonado por aprender e ensinar tecnologia.
+# Olá, seja muito bem-vindo(a)! 👋
 
-- 🚀💻 Aprofudando os estudos em Devops.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venilson1&label=Visualizações%20de%20Perfil&color=0e75b6&style=flat" alt="venilson1" /> </p>
 
-- ☕ formado em análise e desenvolvimento de sistemas 2019-2021.
+- 🔭 **Desenvolvedor Web** com mais de 3 anos de experiência, atuando em **back-end** e **front-end** com foco em **arquitetura de software** e **boas práticas**.
+
+- 🚀💻 Atualmente me aprofundando no **curso Full Cycle**, explorando todas as fases do **desenvolvimento de software**, desde arquitetura e implementação até **CI/CD** e **DevOps**.
+
+- ☕ Formado em **Análise e Desenvolvimento de Sistemas** (2019-2021), sempre buscando me atualizar com as novas tendências e tecnologias.
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
-  
-  <a href="https://www.java.com/pt-BR/">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  height="50">
-  </a> 
-
+   
   <a href="https://nodejs.org/en/">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" w height="50">
   </a> 
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50">
-  </a> 
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50">
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50">
+  </a>
 
 
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp">  
